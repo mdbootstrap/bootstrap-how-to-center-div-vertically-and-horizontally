@@ -1,12 +1,12 @@
 
 Responsive Center div vertically and horizontally built with Bootstrap 5. To center div both vertically and horizontally use flexbox utilities. See the example.
 
-Check out [Bootstrap Center div vertically and horizontally Documentation](https://mdbootstrap.com/docs/standard/extended/center-div-vertically-and-horizontally/) for detailed instructions & even more examples.
+Check out [Bootstrap Center div vertically and horizontally Documentation](https://mdbootstrap.com/how-to/bootstrap/center-div-vertically-and-horizontally/) for detailed instructions & even more examples.
 
 ## How to
 
 [Bootstrap Center div vertically and horizontally:
-![Bootstrap 5 Center div vertically and horizontally](/assets/how-to.png)](https://mdbootstrap.com/docs/standard/extended/center-div-vertically-and-horizontally/#section-how-to/)
+![Bootstrap 5 Center div vertically and horizontally](/assets/how-to.png)](https://mdbootstrap.com/how-to/bootstrap/center-div-vertically-and-horizontally/#section-explanation)
 
 ```html
 
