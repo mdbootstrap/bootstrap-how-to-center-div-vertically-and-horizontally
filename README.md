@@ -6,6 +6,8 @@ Add `.align-items-center` to the parent element to center its content vertically
 
 Add `.justify-content-center` to the parent element to center its content horizontally.
 
+[![first template](/assets/basic-example.png)][(https://mdbootstrap.com/snippets/standard/mdbootstrap/2884987?view=side)](https://mdbootstrap.com/docs/standard/extended/carousel-autoplay/#section-basic-example))
+
 ```html
 
 <div class="d-flex align-items-center justify-content-center" style="height: 250px;">
