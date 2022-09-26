@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-center-div-vertically-and-horizontally",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive Center div vertically and horizontally built with Bootstrap 5. To center div both vertically and horizontally use flexbox utilities. See the example.",
   "main": "basic.html",
   "scripts": {
