@@ -16,6 +16,4 @@ Add `.justify-content-center` to the parent element to center its content horizo
 
 ```
 
-[![first template](https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content-gh/en/_mdb5/standard/web/docs/navigation/footer/examples/assets/1.jpg)](https://mdbootstrap.com/snippets/standard/mdbootstrap/2884987?view=side)
-
 #### Much more examples and a detailed description can be found at [📄 Documentation page](https://mdbootstrap.com/how-to/bootstrap/center-div-vertically-and-horizontally/)
