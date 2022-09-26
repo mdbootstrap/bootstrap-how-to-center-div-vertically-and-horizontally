@@ -6,8 +6,8 @@ Add `.align-items-center` to the parent element to center its content vertically
 
 Add `.justify-content-center` to the parent element to center its content horizontally.
 
-[Bootstrap Carousel autoplay:
-![Bootstrap 5 Carousel autoplay](/assets/basic-example.png)](https://mdbootstrap.com/docs/standard/extended/carousel-autoplay/#section-basic-example)
+[Bootstrap How to center div vertically and horizontally:
+![Bootstrap 5 How to center div vertically and horizontally](/assets/how-to)](https://mdbootstrap.com/how-to/bootstrap/center-div-vertically-and-horizontally/)
 
 ```html
 
