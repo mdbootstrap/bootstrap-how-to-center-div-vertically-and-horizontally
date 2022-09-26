@@ -6,8 +6,9 @@ Add `.align-items-center` to the parent element to center its content vertically
 
 Add `.justify-content-center` to the parent element to center its content horizontally.
 
-[Bootstrap How to center div vertically and horizontally:
-![Bootstrap 5 How to center div vertically and horizontally](/assets/how-to.png)](https://mdbootstrap.com/how-to/bootstrap/center-div-vertically-and-horizontally/)
+## #1
+
+[![first template](/assets/how-to.png)](https://mdbootstrap.com/how-to/bootstrap/center-div-vertically-and-horizontally/)
 
 ```html
 
